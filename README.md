@@ -1,6 +1,6 @@
 ![iris](https://user-images.githubusercontent.com/86251750/133933923-f7aa078b-28ed-447f-a6f5-3b71df5dc09b.png)
 
-For this series of lectures, we will be using the famous [Iris flower data set](https://en.wikipedia.org/wiki/Iris_flower_data_set).
+Here I will be using the famous [Iris flower data set](https://en.wikipedia.org/wiki/Iris_flower_data_set).
 
 The Iris flower data set or Fisher's Iris data set is a multivariate data set introduced by Sir Ronald Fisher in the 1936 as an example of discriminant analysis.
 
