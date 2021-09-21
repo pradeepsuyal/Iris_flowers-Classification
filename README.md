@@ -9,7 +9,7 @@ The data set consists of 50 samples from each of three species of Iris (Iris set
 
 **Dataset**
 ---------------------
-The dataset for this project originates from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Iris). 
+The dataset for this project is originated from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Iris). 
 
 **About the dataset**
 ----------------------
